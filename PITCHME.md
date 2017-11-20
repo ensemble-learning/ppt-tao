@@ -1,100 +1,101 @@
+---
+
 @title[Introduction]
+### Apache Spark
+### AWS Lambda Executor
+### (SAMBA)
 
-# Git<span class="gold">Pitch</span>
-
-#### Markdown Presentations For Everyone on Git.*
-<br>
-<br>
-<span class="byline">[ GitHub, GitLab, Bitbucket, GitBucket, Gitea, Gogs ]</span>
+<span style="color:gray">An Apache Spark Package</span>
 
 ---
 
-@title[PITCHME.md]
+@title[Apache Spark Package]
+### SAMBA Apache Spark Package
 
-#### GitPitch turns <span class="gold">PITCHME.md</span> into
-#### interactive,
-#### online and offline slideshows.
-<br>
-<span class="aside">Just like this one...</span>
+  - Offers seamless integration with the AWS Lambda compute service
+  - Within Spark batch and streaming apps on the JVM
 
 ---
 
-#### No more <span class="gray">Keynote</span>.
-#### No more <span class="gray">Powerpoint</span>.
-<br>
-#### Just <span class="gold">Markdown</span>.
-#### Then <span class="gold">Git-Commit</span>.
+### SAMBA API
+
+<ol>
+<li class="fragment">New `delegate` operation on RDD[<span style="color:gray">AWSTask</span>]</li>
+<li class="fragment">This operation executes AWS Lambda functions</li>
+<li class="fragment">And generates RDD[<span style="color:gray">AWSResult</span>]</li>
+</ol>
+
+<span class="fragment" style="font-size: 0.8em; color:gray">The SAMBA API is built on top of the <a target="_blank" href="https://github.com/onetapbeyond/aws-gataway-executor">aws-gateway-executor</a> library.</span>
 
 ---
 
-@title[Step 1. PITCHME.md]
+### aws-gateway-executor
 
-### <span class="gold">STEP 1. Create 'PITCHME.md'</span>
-<br>
-#### Create GitPitch slideshow content using GitHub Flavored Markdown in your favorite editor.
-<br>
-<span class="aside">It's as easy as README.md with simple slide-delimeters (---)</span>
+- A lightweight, fluent Java library
+- For calling APIs on the Amazon Web Service API Gateway
+- Inside any application running on the JVM
+- Defines <span style="color:gray">AWSGateway</span>, <span style="color:gray">AWSTask</span> and <span style="color:gray">AWSResult</span>
 
----
++++
 
-@title[Step 2. Git-Commit]
+### AWSGateway
 
-### <span class="gold">STEP 2. GIT-COMMIT</span>
-<br>
+<span style="color:gray">A handle that represents an API on the AWS API Gateway.</span>
 
-```shell
-$ git add PITCHME.md
-$ git commit -m "New slideshow content."
-$ git push
-
-Done!
+```Java
+AWSGateway gateway = AWS.Gateway(echo-api-key)
+                        .stage("beta")
+                        .region(AWS.Region.OREGON)
+                        .build();
 ```
 
-@[1](Add your PITCHME.md slideshow content file.)
-@[2](Commit PITCHME.md to your local repo.)
-@[3](Push PITCHME.md to your public repo and you're done!)
-@[5](Supports GitHub, GitLab, Bitbucket, GitBucket, Gitea, and Gogs.)
+
++++
+
+### AWSTask
+
+<span style="color:gray">An executable object that represents an AWS Gateway call.</span>
+
+```Java
+AWSTask aTask = AWS.Task(gateway)
+                   .resource("/echo")
+                   .get();
+
+```
+
++++
+
+### AWSResult
+
+<span style="color:gray">An object that represents the result of an AWS Gateway call.</span>
+
+```Java
+AWSResult aResult = aTask.execute();
+```
 
 ---
 
-@title[Step 3. Done!]
+@title[Batch Processing]
+### SAMBA + Apache Spark Batch Processing
 
-### <span class="gold">STEP 3. GET THE WORD OUT!</span>
-<br>
-![GitPitch Slideshow URLs](assets/images/gp-slideshow-urls.png)
-<br>
-<br>
-#### Instantly use your GitPitch slideshow URL to promote, pitch or present absolutely anything.
-
----
-
-@title[Slide Rich]
-
-### <span class="gold">Slide Rich</span>
-
-#### Code Presenting for Blocks, Files, and GISTs
-#### Image, Video, Chart, and Math Slides
-#### Multiple Themes with Easy Customization
-<br>
-#### <span class="gold">Plus collaboration is built-in...</span>
-#### Your Slideshow is Part of Your Project
-#### Under Git Version Control within Your Git Repo
++++?gist=onetapbeyond/494e0fecaf0d6a2aa2acadfb8eb9d6e8&title=SAMBA Code-Walk
+@[41-53](Build RDD[AWSTask])
+@[57-62](Delegate RDD[AWSTask] to AWS Lambda)
+@[64-75](Process RDD[AWSResult] from AWS Lambda)
 
 ---
 
-@title[Feature Rich]
+#### SAMBA Deployment Architecture
 
-### <span class="gold">Feature Rich</span>
-
-#### Present Online or Offline
-#### With Speaker Notes Support
-#### Print Presentation as PDF
-#### Auto-Generated Table-of-Contents
-#### Share Presentation on Twitter or LinkedIn
+@title[Deployment Architecture]
+![SAMBA Deployment](https://onetapbeyond.github.io/resource/img/samba/new-samba-deploy.jpg)
 
 ---
 
-### Go for it.
-### Just add <span class="gold">PITCHME.md</span> ;)
-<br>
-[Click here to learn more...](https://github.com/gitpitch/gitpitch/wiki)
+#### Some Related Links
+
+- [GitHub: SAMBA Package](https://github.com/onetapbeyond/lambda-spark-executor)
+- [GitHub: SAMBA Examples](https://github.com/onetapbeyond/lambda-spark-executor#samba-examples)
+- [GitHub: aws-gateway-executor](https://github.com/onetapbeyond/aws-gateway-executor)
+- [GitHub: Apache Spark](https://github.com/apache/spark)
+- [Apache Spark Packages](https://spark-packages.org/package/onetapbeyond/lambda-spark-executor)
