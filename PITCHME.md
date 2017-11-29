@@ -24,7 +24,9 @@ The fuel efficiency of propanol approaches gasoline
     </li>
 </li>
 
-<li class="fragment"> </li>
+<li class="fragment"> 
+Propanol can be blended with gasoline to deliver a cleaner burning
+</li>
 
 </ol>
 
