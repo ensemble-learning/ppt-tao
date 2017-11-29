@@ -9,8 +9,14 @@
 
 ---
 
-@title[Propanol is ideal production in reduction carbon dioxide]
-### Propanol is ideal production in reduction carbon dioxide
+@title[Propanol is ideal production]
+### Propanol is ideal production
+
+<ol>
+<li class="fragment"> Propanol has the highest energy-mass density and octane number</li>
+<li class="fragment"> </li>
+
+</ol>
 
   - Offers seamless integration with the AWS Lambda compute service
   - Within Spark batch and streaming apps on the JVM
