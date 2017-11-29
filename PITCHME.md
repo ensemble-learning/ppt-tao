@@ -14,10 +14,13 @@
 
 <ol>
 <li class="fragment"> 
-Propanol has the highest energy-mass density and octane number
+The fuel efficiency of propanol approaches gasoline
     <ul>
     <li class="fragment">
-    test
+    highest energy-mass density (30.93 kJ/g) of the C1-C3 alcohols
+    </li>
+    <li class="fragment">
+    highest octane number (118) of the C1-C3 alcohols
     </li>
 </li>
 
