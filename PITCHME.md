@@ -1,11 +1,11 @@
 ---
 
 @title[Introduction]
-### Apache Spark
-### AWS Lambda Executor
-### (SAMBA)
+### Tao Cheng
+### Research Assistant
+### JCAP, Caltech
 
-<span style="color:gray">An Apache Spark Package</span>
+<span style="color:gray">Reaction mechanism of carbon dioxide reduction to propanol </span>
 
 ---
 
