@@ -79,9 +79,8 @@ electrochemical reduction of CO2 to propanol could be a cost-effective method
 
 ---
 
-#### SAMBA Deployment Architecture
+@title[Reaction mechanism is unclear]
+### What is the reaction mechanism?
 
-@title[Deployment Architecture]
-![SAMBA Deployment](https://onetapbeyond.github.io/resource/img/samba/new-samba-deploy.jpg)
-
+---
 
