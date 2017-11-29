@@ -54,9 +54,17 @@ Current industrial production of propanol
     </li>
     </ul>
 </li>
-</ol>
 
-<span class="fragment" style="font-size: 0.8em; color:gray">The SAMBA API is built on top of the <a target="_blank" href="https://github.com/onetapbeyond/aws-gataway-executor">aws-gateway-executor</a> library.</span>
+<li class="fragment">
+electrochemical reduction of CO2 to propanol could be a cost-effective method
+    <ul>
+    <li class="fragment">
+    3CO2 + 13H2O + 18e- = C3H7OH + 18OH- (E0 = 0.21 V)
+    </li>
+    </ul>
+</li>
+
+</ol>
 
 ---
 
