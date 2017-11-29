@@ -22,6 +22,7 @@ The fuel efficiency of propanol approaches gasoline
     <li class="fragment">
     highest octane number (118) of the C1-C3 alcohols
     </li>
+    </ul>
 </li>
 
 <li class="fragment"> 
