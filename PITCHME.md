@@ -9,8 +9,8 @@
 
 ---
 
-@title[Apache Spark Package]
-### SAMBA Apache Spark Package
+@title[Propanol is ideal production in reduction carbon dioxide]
+### Propanol is ideal production in reduction carbon dioxide
 
   - Offers seamless integration with the AWS Lambda compute service
   - Within Spark batch and streaming apps on the JVM
