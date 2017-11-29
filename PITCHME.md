@@ -9,7 +9,7 @@
 
 ---
 
-@title[Propanol is ideal production]
+@title[Propanol is desired]
 ### Propanol is ideal production
 
 <ol>
@@ -38,14 +38,22 @@ Propanol has high market value.
 
 </ol>
 
----
++++
 
-### SAMBA API
+### Produce propanol from CO2RR
 
 <ol>
-<li class="fragment">New `delegate` operation on RDD[<span style="color:gray">AWSTask</span>]</li>
-<li class="fragment">This operation executes AWS Lambda functions</li>
-<li class="fragment">And generates RDD[<span style="color:gray">AWSResult</span>]</li>
+<li class="fragment">
+Current industrial production of propanol
+    <ul>
+    <li class="fragment">
+    ethylene is hydroformylated to propionaldehyde using cobalt or rhodium-based catalysis
+    </li>
+    <li class="fragment">
+    propionaldehyde is then reduced to propanol
+    </li>
+    </ul>
+</li>
 </ol>
 
 <span class="fragment" style="font-size: 0.8em; color:gray">The SAMBA API is built on top of the <a target="_blank" href="https://github.com/onetapbeyond/aws-gataway-executor">aws-gateway-executor</a> library.</span>
