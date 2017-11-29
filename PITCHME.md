@@ -13,13 +13,17 @@
 ### Propanol is ideal production
 
 <ol>
-<li class="fragment"> Propanol has the highest energy-mass density and octane number</li>
+<li class="fragment"> 
+Propanol has the highest energy-mass density and octane number
+    <ul>
+    <li class="fragment">
+    test
+    </li>
+</li>
+
 <li class="fragment"> </li>
 
 </ol>
-
-  - Offers seamless integration with the AWS Lambda compute service
-  - Within Spark batch and streaming apps on the JVM
 
 ---
 
