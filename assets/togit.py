@@ -8,7 +8,7 @@ if len(sys.argv) > 2:
     cmd += "-compose Copy "
     cmd += "-gravity center "
     cmd += "-extent 800x400 "
-    cmd += "-transparent white "
+    #cmd += "-transparent white "
     #cmd += "-density 1200 "
     outfile = sys.argv[2]
     cmd += outfile
