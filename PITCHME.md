@@ -107,7 +107,7 @@ C3 compete with C1 (CH4) production
 ![](assets/f-03.png)
 
 ---
-### 不忘初心，方得始终。
+### Stay Hungry, Stay Foolish.
 ### 不忘初心，方得始终。
 
 
