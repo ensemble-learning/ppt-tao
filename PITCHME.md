@@ -113,7 +113,7 @@ C3 compete with C1 (CH4) production
 ![](assets/f-02.png)
 
 +++
-@title[Most possible step]
+@title[Most possible step]  
 The most possible coupling step
 ![](assets/f-03.png)
 
