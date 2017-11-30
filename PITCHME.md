@@ -96,8 +96,8 @@ electrochemical reduction of CO2 to propanol could be a cost-effective method
 +++
 ### We are moving forward to investigate n-PrOH.
 +++
-@title[Experiment CV]
-### Experiment observations
+@title[Experiment CV]  
+Experiment observations
 ![](assets/f-01.png)
 
 <span class="fragment" style="font-size: 0.8em"> 
