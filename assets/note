@@ -1,4 +1,4 @@
 #convert input.png -resize 800x400 -background (250,247,230) -compose Copy -gravity center -extent 800x400 output.png
 #convert input.png -resize 800x400 -background 'rgb(250,247,230)' -compose Copy -gravity center -extent 800x400 output.png
-convert input.png -resize 1000x600 -background none -transparent white -compose Copy -gravity center -extent 1000x600 output.png
+convert input.png -resize 1000x500 -background none -transparent white -compose Copy -gravity center -extent 1000x500 output.png
 #convert input.png -resize 800x400 -compose Copy -gravity center -extent 800x400 output.png
