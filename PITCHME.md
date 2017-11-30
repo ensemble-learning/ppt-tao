@@ -85,10 +85,13 @@ electrochemical reduction of CO2 to propanol could be a cost-effective method
 ### What is the reaction mechanism?
 
 +++?image=assets/cv.png&size=auto 70%
+@title[Experiment CV]
 
 +++?image=assets/fig-02.png&size=auto 80%
+@title[DFT results]
 
 +++
+@title[Most possible step]
 ### the most possible C2-CO coupling step
 ![1](assets/fig-03.png)
 
