@@ -40,7 +40,7 @@ Propanol has high market value.
 
 +++
 
-@title[Produce propanol from CO2RR]
+@title[CO2RR]
 ### Produce propanol from CO2RR
 
 <ol>
@@ -91,5 +91,8 @@ electrochemical reduction of CO2 to propanol could be a cost-effective method
 ### What is the reaction mechanism?
 ![cv](assets/cv.png)
 This is a test
+
++++ 
+@title[test]
 
 
