@@ -17,10 +17,10 @@
 The fuel efficiency of propanol approaches gasoline
     <ul>
     <li>
-    highest energy-mass density (30.93 kJ/g) of the C1-C3 alcohols
+    highest energy-mass density (30.93 kJ/g)
     </li>
     <li>
-    highest octane number (118) of the C1-C3 alcohols
+    highest octane number (118)
     </li>
     </ul>
 </li>
