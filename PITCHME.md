@@ -109,7 +109,7 @@ C3 compete with C1 (CH4) production
 
 +++
 @title[DFT results]  
-We considered all the possible C-C coupling pathway
+We considered all C-C coupling possibilities
 ![](assets/f-02.png)
 
 +++
