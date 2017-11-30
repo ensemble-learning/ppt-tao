@@ -89,12 +89,12 @@ electrochemical reduction of CO2 to propanol could be a cost-effective method
 
 <!-- +++?image=assets/cv.png&size=auto 70% -->
 +++
-### We have already figured out C2 pathways.
+### We have already figured out C2 (ethylene and ethanol) pathways.
 +++
 The C2 pathways as we published previously
 ![](assets/f-04.png)
 +++
-### We are moving forward to investigate n-PrOH.
+### We are moving forward to investigate n-propanol.
 +++
 @title[Experiment CV]  
 Experiment observations
