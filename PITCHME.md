@@ -13,13 +13,13 @@
 ### Propanol is ideal production
 
 <ol>
-<li class="fragment"> 
+<li> 
 The fuel efficiency of propanol approaches gasoline
     <ul>
-    <li class="fragment">
+    <li>
     highest energy-mass density (30.93 kJ/g) of the C1-C3 alcohols
     </li>
-    <li class="fragment">
+    <li>
     highest octane number (118) of the C1-C3 alcohols
     </li>
     </ul>
@@ -28,11 +28,11 @@ The fuel efficiency of propanol approaches gasoline
 <!-- highest energy-mass density (30.93 kJ/g) of the C1-C3 alcohols -->
 <!-- highest octane number (118) of the C1-C3 alcohols -->
 
-<li class="fragment"> 
+<li>
 Propanol can be blended with gasoline to deliver a cleaner burning
 </li>
 
-<li class="fragment"> 
+<li>
 Propanol has high market value.
 </li>
 
