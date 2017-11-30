@@ -87,6 +87,6 @@ electrochemical reduction of CO2 to propanol could be a cost-effective method
 +++
 @title[Experiment CV]
 ### What is the reaction mechanism?
-![](http://tcheng.org/images/ppt-01/cv.png)
+![](http://tcheng.org/images/ppt-01/cv.png =250x)
 
 
