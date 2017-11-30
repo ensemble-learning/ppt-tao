@@ -88,8 +88,8 @@ electrochemical reduction of CO2 to propanol could be a cost-effective method
 +++
 @title[Experiment CV]
 ![](assets/f-01.png)
-- C3 is along with C2 production
-- C3 compete with C1 production
+- <span class="fragment" style="font-size: 0.8em; color:gray"> C3 is along with C2 production </span>
+- <span class="fragment" style="font-size: 0.8em; color:gray"> C3 compete with C1 production </span>
 
 +++
 @title[DFT results]
