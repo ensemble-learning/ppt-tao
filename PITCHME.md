@@ -90,10 +90,10 @@ electrochemical reduction of CO2 to propanol could be a cost-effective method
 ![](assets/f-01.png)
 
 <span class="fragment" style="font-size: 0.8em; color:gray"> 
-C3 is along with C2 production   
+n-PrOH is along with C2 (C2H4 and EtOH) production   
 </span>
 <span class="fragment" style="font-size: 0.8em; color:gray"> 
-C3 compete with C1 production   
+C3 compete with C1 (CH4) production   
 </span>
 
 +++
