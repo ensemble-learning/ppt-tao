@@ -98,7 +98,7 @@ C3 compete with C1 (CH4) production
 
 +++
 @title[DFT results]
-### <span style="font-size: 0.8 em"> All the possible C-C bond formaiton pathway </span>
+### All the possible C-C bond formaiton pathway
 ![](assets/f-02.png)
 
 +++
