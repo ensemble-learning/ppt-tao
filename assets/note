@@ -1,1 +1,1 @@
-convert input.png -resize 800x400 -background white -compose Copy -gravity center -extent 800x600 output.png
+convert input.png -resize 800x400 -background white -compose Copy -gravity center -extent 800x400 output.png
