@@ -98,6 +98,7 @@ C3 compete with C1 production
 
 +++
 @title[DFT results]
+### We investigated all the possible C-C bond formaiton pathway
 ![](assets/f-02.png)
 
 +++
