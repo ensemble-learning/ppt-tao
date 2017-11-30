@@ -29,7 +29,7 @@ The fuel efficiency of propanol approaches gasoline
 <!-- highest octane number (118) of the C1-C3 alcohols -->
 
 <li>
-Propanol can be blended with gasoline to deliver a cleaner burning
+Deliver a cleaner burning blendeding with gasoline
 </li>
 
 <li>
