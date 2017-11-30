@@ -44,22 +44,22 @@ Propanol has high market value.
 ### Produce propanol from CO2RR
 
 <ol>
-<li class="fragment">
+<li>
 Current industrial production of propanol
     <ul>
-    <li class="fragment">
+    <li>
     ethylene is hydroformylated to propionaldehyde using cobalt or rhodium-based catalysis
     </li>
-    <li class="fragment">
+    <li>
     propionaldehyde is then reduced to propanol
     </li>
     </ul>
 </li>
 
-<li class="fragment">
+<li> 
 electrochemical reduction of CO2 to propanol could be a cost-effective method
     <ul>
-    <li class="fragment">
+    <li>
     3CO2 + 13H2O + 18e- = C3H7OH + 18OH- (E0 = 0.21 V)
     </li>
     </ul>
