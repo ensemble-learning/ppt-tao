@@ -90,7 +90,7 @@ CO2RR could be a cost-effective method in producing propanol
 <!-- +++?image=assets/cv.png&size=auto 70% -->
 +++
 ### Good news.
-We have already figured out C2 (ethylene and ethanol) pathways. @fa[fa-thumbs-o-up] 
+We have already figured out C2 (ethylene and ethanol) pathways. @fa[fa-thumbs-o-up-3x] 
 +++
 The C2 pathways as we published previously
 ![](assets/f-04.png)
