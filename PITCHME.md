@@ -60,7 +60,7 @@ Current industrial production of propanol
 electrochemical reduction of CO2 to propanol could be a cost-effective method
     <ul>
     <li>
-    3CO2 + 13H2O + 18e- = C3H7OH + 18OH- 
+    $$3CO_2 + 13H_2O + 18e^- = C_3H_7OH + 18OH^-$$
     </li>
     <li>
     redox potential 0.21 V

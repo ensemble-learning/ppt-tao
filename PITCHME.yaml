@@ -1,4 +1,5 @@
-#theme : beige
-# logo : assets/logo.png
-#slide-number : true
+theme : night 
+slide-number : true
 theme-override : assets/css/PITCHME.css
+
+# logo : assets/logo.png
