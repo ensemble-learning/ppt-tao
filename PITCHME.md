@@ -5,15 +5,15 @@
 ### Research Assistant
 ### JCAP, Caltech
 
-<span style="color:gray">Reaction mechanism of carbon dioxide reduction to propanol </span>
+<span style="color: gray">Reaction mechanism of carbon dioxide reduction to propanol </span>
 
 ---
 
 @title[Propanol is desired]
-### Propanol is ideal production
+### n-Propanol is ideal.
 
 <ol>
-<li> 
+<li>
 The fuel efficiency of propanol approaches gasoline
     <ul>
     <li>
@@ -29,7 +29,7 @@ The fuel efficiency of propanol approaches gasoline
 <!-- highest octane number (118) of the C1-C3 alcohols -->
 
 <li>
-Deliver a cleaner burning blendeding with gasoline
+Deliver a cleaner burning blending with gasoline
 </li>
 
 <li>
@@ -56,7 +56,7 @@ Current industrial production of propanol
     </ul>
 </li>
 
-<li> 
+<li>
 CO2RR could be a cost-effective method in producing propanol
     <ul>
     <li>
@@ -85,11 +85,12 @@ CO2RR could be a cost-effective method in producing propanol
 ---
 
 @title[Reaction mechanism]
-### What is the reaction mechanism?
+### Reaction mechanism?
 
 <!-- +++?image=assets/cv.png&size=auto 70% -->
 +++
-### We have already figured out C2 (ethylene and ethanol) pathways.
+### Good news.
+We have already figured out C2 (ethylene and ethanol) pathways.
 +++
 The C2 pathways as we published previously
 ![](assets/f-04.png)
@@ -100,10 +101,10 @@ The C2 pathways as we published previously
 Experiment observations
 ![](assets/f-01.png)
 
-<span class="fragment" style="font-size: 0.8em"> 
+<span class="fragment" style="font-size: 0.8em">
 n-PrOH is along with C2 (C2H4 and EtOH) production   
 </span>
-<span class="fragment" style="font-size: 0.8em"> 
+<span class="fragment" style="font-size: 0.8em">
 C3 compete with C1 (CH4) production   
 </span>
 
@@ -114,11 +115,9 @@ We considered all C-C coupling possibilities
 
 +++
 @title[Most possible step]  
-The most possible coupling step
+The most possible coupling step.
 ![](assets/f-03.png)
 
 ---
 ### Stay Hungry, Stay Foolish.
 ### 不忘初心，方得始终。
-
-
