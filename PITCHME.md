@@ -102,7 +102,8 @@ We considered all C-C coupling possibilities
 +++
 @title[Most possible step]  
 The most possible coupling step.
-![](assets/fig-03.png)
+![](assets/fig-04.png)
++++?image=assets/fig-04.png&size=auto 80%
 ---
 ### Stay Hungry, Stay Foolish.
 ### 不忘初心，方得始终。
