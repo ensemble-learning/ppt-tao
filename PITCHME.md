@@ -91,7 +91,11 @@ CO2RR could be a cost-effective method in producing propanol
 +++
 ### Good news.
 We have already figured out C2 pathways:  
-@fa[hand-o-down fa-3x]
+
+<span class="fragment">
+@fa[hand-o-down fa-2x]
+</span>
+
 +++
 The C2 pathways as we published previously
 ![](assets/f-04.png)
