@@ -94,10 +94,12 @@ We have already figured out C2 pathways:
 
 <!-- <span class="fragment"> @fa[hand-o-down fa-2x] </span> -->
 +++
-Reaction mechanism of ethylene formation.
+<!-- .slide: data-background-transition="none" -->
+Ethylene formation
 ![](assets/fig-05.png)
 +++
-Reaction mechanism of ethanol formation.
+<!-- .slide: data-background-transition="none" -->
+Ethanol formation.
 ![](assets/fig-06.png)
 +++
 ### We are moving forward to investigate n-propanol.
