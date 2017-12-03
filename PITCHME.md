@@ -85,7 +85,9 @@ CO2RR could be a cost-effective method in producing propanol
 ---
 
 @title[Reaction mechanism]
-### Reaction mechanism of ethylene and ethanol formation
+### Reaction mechanism:
+### Ethylene formation
+### Ethanol formation
 <!-- <span class="fragment"> @fa[hand-o-down fa-2x] </span> -->
 +++?image=assets/fig-05.png&size=auto 80%
 <!-- .slide: data-background-transition="none" -->
@@ -98,18 +100,14 @@ CO2RR could be a cost-effective method in producing propanol
 @title[DFT results]  
 We considered all C-C coupling possibilities
 ![](assets/fig-02.png)
-
 +++
 @title[Most possible step]  
 The most possible coupling step.
 ![](assets/fig-03.png)
-
 ---
 ### Stay Hungry, Stay Foolish.
 ### 不忘初心，方得始终。
-
 ---
-+++
 @title[Appendix]  
 Experiment observations
 ![](assets/fig-01.png)
