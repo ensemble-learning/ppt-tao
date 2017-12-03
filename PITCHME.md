@@ -85,20 +85,15 @@ CO2RR could be a cost-effective method in producing propanol
 ---
 
 @title[Reaction mechanism]
-### Reaction mechanism?
-
-<!-- +++?image=assets/cv.png&size=auto 70% -->
-+++
-### Good news.
-We have already figured out C2 pathways:  
-
+### Reaction mechanism of ethylene and ethanol formation
 <!-- <span class="fragment"> @fa[hand-o-down fa-2x] </span> -->
 +++?image=assets/fig-05.png&size=auto 80%
 <!-- .slide: data-background-transition="none" -->
 +++?image=assets/fig-06.png&size=auto 80%
 <!-- .slide: data-background-transition="none" -->
 +++
-### We are moving forward to investigate n-propanol.
+### Question:
+### What is the reaction mechanism of n-propanol formation?
 +++
 @title[DFT results]  
 We considered all C-C coupling possibilities
