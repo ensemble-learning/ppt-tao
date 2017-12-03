@@ -98,7 +98,7 @@ CO2RR could be a cost-effective method in producing propanol
 +++
 @title[DFT results]  
 We considered all C-C coupling possibilities
-![](assets/fig-02.png)
+![](assets/fig-07.jpg)
 +++
 @title[Overall reaction pathways]  
 Overall reaction pathways.
