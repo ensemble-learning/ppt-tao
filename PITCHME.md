@@ -92,19 +92,34 @@ CO2RR could be a cost-effective method in producing propanol
 ### Good news.
 We have already figured out C2 pathways:  
 
-<span class="fragment">
-@fa[hand-o-down fa-2x]
-</span>
-
+<!-- <span class="fragment"> @fa[hand-o-down fa-2x] </span> -->
 +++
-The C2 pathways as we published previously
-![](assets/f-04.png)
+Reaction mechanism of ethylene formation.
+![](assets/fig-05.png)
++++
+Reaction mechanism of ethanol formation.
+![](assets/fig-06.png)
 +++
 ### We are moving forward to investigate n-propanol.
 +++
-@title[Experiment CV]  
+@title[DFT results]  
+We considered all C-C coupling possibilities
+![](assets/fig-02.png)
+
++++
+@title[Most possible step]  
+The most possible coupling step.
+![](assets/fig-03.png)
+
+---
+### Stay Hungry, Stay Foolish.
+### 不忘初心，方得始终。
+
+---
++++
+@title[Appendix]  
 Experiment observations
-![](assets/f-01.png)
+![](assets/fig-01.png)
 
 <span class="fragment" style="font-size: 0.8em">
 n-PrOH is along with C2 (C2H4 and EtOH) production   
@@ -112,17 +127,3 @@ n-PrOH is along with C2 (C2H4 and EtOH) production
 <span class="fragment" style="font-size: 0.8em">
 C3 compete with C1 (CH4) production   
 </span>
-
-+++
-@title[DFT results]  
-We considered all C-C coupling possibilities
-![](assets/f-02.png)
-
-+++
-@title[Most possible step]  
-The most possible coupling step.
-![](assets/f-03.png)
-
----
-### Stay Hungry, Stay Foolish.
-### 不忘初心，方得始终。
