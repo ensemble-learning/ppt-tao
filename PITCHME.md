@@ -86,8 +86,7 @@ CO2RR could be a cost-effective method in producing propanol
 
 @title[Reaction mechanism]
 ### Reaction mechanism:
-### Ethylene formation
-### Ethanol formation
+### Ethylene and ethanol
 <!-- <span class="fragment"> @fa[hand-o-down fa-2x] </span> -->
 +++?image=assets/fig-05.png&size=auto 80%
 <!-- .slide: data-background-transition="none" -->
