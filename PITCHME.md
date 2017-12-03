@@ -96,11 +96,11 @@ We have already figured out C2 pathways:
 +++
 <!-- .slide: data-background-transition="none" -->
 Ethylene formation
-![](assets/fig-05.png)
+![fig-05](assets/fig-05.png)
 +++
 <!-- .slide: data-background-transition="none" -->
 Ethanol formation.
-![](assets/fig-06.png)
+![fig-06](assets/fig-06.png)
 +++
 ### We are moving forward to investigate n-propanol.
 +++
