@@ -112,7 +112,7 @@ Overall reaction pathways.
 +++
 @title[propanol pathway] 
 The reaction pathway of propanol formation
-![](assets/fig-10.png)
+![](assets/fig-10.jpg)
 
 
 ---
