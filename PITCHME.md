@@ -5,15 +5,15 @@
 ### Research Assistant
 ### JCAP, Caltech
 
-<span style="color:gray">Reaction mechanism of carbon dioxide reduction to propanol </span>
+<span style="color: gray">Reaction mechanism of carbon dioxide reduction to propanol </span>
 
 ---
 
 @title[Propanol is desired]
-### Propanol is ideal production
+### n-Propanol is ideal.
 
 <ol>
-<li> 
+<li>
 The fuel efficiency of propanol approaches gasoline
     <ul>
     <li>
@@ -29,7 +29,7 @@ The fuel efficiency of propanol approaches gasoline
 <!-- highest octane number (118) of the C1-C3 alcohols -->
 
 <li>
-Deliver a cleaner burning blendeding with gasoline
+Deliver a cleaner burning blending with gasoline
 </li>
 
 <li>
@@ -56,7 +56,7 @@ Current industrial production of propanol
     </ul>
 </li>
 
-<li> 
+<li>
 CO2RR could be a cost-effective method in producing propanol
     <ul>
     <li>
@@ -85,34 +85,22 @@ CO2RR could be a cost-effective method in producing propanol
 ---
 
 @title[Reaction mechanism]
-### What is the reaction mechanism?
-
-<!-- +++?image=assets/cv.png&size=auto 70% -->
+### Reaction mechanism:
+### Ethylene and ethanol
+<!-- <span class="fragment"> @fa[hand-o-down fa-2x] </span> -->
++++?image=assets/fig-05.png&size=auto 80%
+<!-- .slide: data-background-transition="none" -->
++++?image=assets/fig-06.png&size=auto 80%
+<!-- .slide: data-background-transition="none" -->
 +++
-### We have already figured out C2 (ethylene and ethanol) pathways.
-+++
-The C2 pathways as we published previously
-![](assets/f-04.png)
-+++
-### We are moving forward to investigate n-propanol.
-+++
-@title[Experiment CV]  
-Experiment observations
-![](assets/f-01.png)
-
-<span class="fragment" style="font-size: 0.8em"> 
-n-PrOH is along with C2 (C2H4 and EtOH) production   
-</span>
-<span class="fragment" style="font-size: 0.8em"> 
-C3 compete with C1 (CH4) production   
-</span>
-
+### Question:
+### What is the reaction mechanism of n-propanol formation?
 +++
 @title[DFT results]  
 We considered all C-C coupling possibilities
-![](assets/f-02.png)
-
+![](assets/fig-07.jpg)
 +++
+<<<<<<< HEAD
 @title[Most possible step]  
 The most possible coupling step
 ![](assets/f-03.png)
@@ -123,8 +111,22 @@ The reaction pathway of propanol formation
 ![](assets/fig-10.jpg)
 
 
+=======
+@title[Overall reaction pathways]  
+Overall reaction pathways.
+![](assets/fig-04.png)
+>>>>>>> d5a7548e4c48a255f05637f9cd0b20c4ad47cccd
 ---
 ### Stay Hungry, Stay Foolish.
 ### 不忘初心，方得始终。
+---
+@title[Appendix]  
+Experiment observations
+![](assets/fig-01.png)
 
-
+<span class="fragment" style="font-size: 0.8em">
+n-PrOH is along with C2 (C2H4 and EtOH) production   
+</span>
+<span class="fragment" style="font-size: 0.8em">
+C3 compete with C1 (CH4) production   
+</span>
