@@ -117,6 +117,12 @@ We considered all C-C coupling possibilities
 The most possible coupling step
 ![](assets/f-03.png)
 
++++
+@title[propanol pathway] 
+The reaction pathway of propanol formation
+![](assets/fig-10.jpg)
+
+
 ---
 ### Stay Hungry, Stay Foolish.
 ### 不忘初心，方得始终。
