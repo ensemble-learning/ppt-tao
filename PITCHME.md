@@ -100,10 +100,14 @@ CO2RR could be a cost-effective method in producing propanol
 We considered all C-C coupling possibilities
 ![](assets/fig-07.jpg)
 +++
-<<<<<<< HEAD
 @title[Most possible step]  
 The most possible coupling step
 ![](assets/f-03.png)
+
++++
+@title[Overall reaction pathways]  
+Overall reaction pathways.
+![](assets/fig-04.png)
 
 +++
 @title[propanol pathway] 
@@ -111,11 +115,6 @@ The reaction pathway of propanol formation
 ![](assets/fig-10.jpg)
 
 
-=======
-@title[Overall reaction pathways]  
-Overall reaction pathways.
-![](assets/fig-04.png)
->>>>>>> d5a7548e4c48a255f05637f9cd0b20c4ad47cccd
 ---
 ### Stay Hungry, Stay Foolish.
 ### 不忘初心，方得始终。
