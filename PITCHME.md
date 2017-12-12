@@ -102,7 +102,7 @@ We considered all C-C coupling possibilities
 +++
 @title[Most possible step]  
 The most possible coupling step
-![](assets/f-03.png)
+![](assets/rxn.png)
 
 +++
 @title[Overall reaction pathways]  
@@ -112,7 +112,7 @@ Overall reaction pathways.
 +++
 @title[propanol pathway] 
 The reaction pathway of propanol formation
-![](assets/fig-10.jpg)
+![](assets/fig-10.png)
 
 
 ---
