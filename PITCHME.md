@@ -20,8 +20,10 @@ For as yet unclear reasons, the HOR/HER kinetics on Pt are much slower in alkali
 
 ![](assets/f1.png)  
 
-<span style="font-size: 0.4em">J. Durst et al. Energy Environ. Sci., 2014, 7, 2255</span>
-
-
-
+<span style="font-size: 0.4em">Durst et al. Energy Environ. Sci., 2014, 7, 2255</span>
 ---
+100-fold activity decrease going from low to high pH
+
+![](assets/f1.png)  
+
+<span style="font-size: 0.4em">Sheng et al.  Nat Commun, 2015, 6</span>
