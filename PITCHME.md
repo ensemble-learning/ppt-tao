@@ -5,7 +5,7 @@
 ### Research Assistant
 ### JCAP, Caltech
 
-<span style="color: gray">Reaction mechanism of carbon dioxide reduction to propanol </span>
+<span style="color: gray">HOR</span>
 
 ---
 
