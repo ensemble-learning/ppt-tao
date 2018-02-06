@@ -10,5 +10,5 @@
 ---
 
 @title[Introduction]
-### n-Propanol is ideal.
+Hydrogen oxidation and evolution reactions (HOR/HER) are two of the key processes in renewable energy conversion and storage devices
 
