@@ -22,7 +22,7 @@ For as yet unclear reasons, the HOR/HER kinetics on Pt are much slower in alkali
 
 <span style="font-size: 0.4em">Durst et al. Energy Environ. Sci., 2014, 7, 2255</span>
 ---
-Hydrogen binding energy (HBE) increases with increasing pH
+HBE increases with increasing pH
 
 ![](assets/f3.png)  
 
