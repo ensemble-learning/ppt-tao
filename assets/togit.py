@@ -5,7 +5,7 @@ if len(sys.argv) > 2:
     cmd += infile + " "
     cmd += "-resize 800x400 " 
     #cmd += "-background none " 
-    cmd += "-background 'rgb(255,255,255)'" 
+    cmd += "-background 'rgb(0,0,0)'" 
     cmd += "-compose Copy "
     cmd += "-gravity center "
     cmd += "-extent 800x400 "
