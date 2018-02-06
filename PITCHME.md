@@ -27,3 +27,10 @@ HBE increases with increasing pH
 ![](assets/f3.png)  
 
 <span style="font-size: 0.4em">Sheng et al.  Nat Commun, 2015, 6</span>
+
+---
+HBE increases with increasing pH
+
+![](assets/f4.png)  
+
+<span style="font-size: 0.4em">Sheng et al.  Nat Commun, 2015, 6</span>
