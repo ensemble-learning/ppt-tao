@@ -16,7 +16,7 @@ Hydrogen oxidation and evolution reactions (HOR/HER) are two of the key processe
 For as yet unclear reasons, the HOR/HER kinetics on Pt are much slower in alkaline than in acid electrolytes. 
 
 ---
-100-fold activity decrease when going from low to high pH
+100-fold activity decrease going from low to high pH
 
 ![](assets/f1.png)  
 
