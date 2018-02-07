@@ -44,4 +44,4 @@ HBE increases with increasing pH
 
 ---
 ### Our hypothesis
-pH-dependence of the HBE is from change of water adsorption energy
+The pH-dependence of the HBE is from change of water adsorption energy
