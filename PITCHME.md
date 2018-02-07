@@ -39,7 +39,7 @@ HBE increases with increasing pH
 ### Some explainations
 - <span style="font-size: 0.6em">Faster formation of H* from H plus than from H2O. (Strmcnik et al. Nano Energy, 2016) </span>
 - <span style="font-size: 0.6em">pH dependence of entropy change from the proton transfer from the bulk solution into the outer Helmholz layer. (Rossmeisl et al. Catalysis Today, 2016)</span>
-- <span style="font-size: 0.6em">Schwarz et al. (Phys. Chem. Chem. Phys. 2016): partial oxidation of water adsorption on step sites of metals</span>
+- <span style="font-size: 0.6em">partial oxidation of water adsorption on step sites of metals (Schwarz et al. Phys. Chem. Chem. Phys. 2016)</span>
 - <span style="font-size: 0.6em">McCrum et al. (J. Phys. Chem. C, 2016): weakened OH adsorption strength induced by the co-adsorption of catio</span>
 
 ---
