@@ -56,14 +56,14 @@ The pH-dependence of the HBE is from change of water adsorption energy
 Thus the voltage we interested with are:  
 <span style="font-size: 0.4em"> 4.4 + 0.30 -  0.2 x 0.0592 = 4.69;</span>
 <span style="font-size: 0.4em"> 4.4 + 0.25 -  5.2 x 0.0592 = 4.34;</span>
-<span style="font-size: 0.4em"> 4.4 + 0.40 - 12.8 x 0.0592 = 4.04;</span>
-<span style="font-size: 0.4em">set 1: 4.69 to 4.04</span>
-<span style="font-size: 0.4em">set 2: 4.89 to 4.24</span>
+<span style="font-size: 0.4em"> 4.4 + 0.40 - 12.8 x 0.0592 = 4.04;</span>  
+<span style="font-size: 0.4em">set 1: 4.69 to 4.04;</span>
+<span style="font-size: 0.4em">set 2: 4.89 to 4.24;</span>
 <span style="font-size: 0.4em">set 3: 4.40, 3.98, 3.57</span>
 
-simulation results
-<span style="font-size: 0.4em">00e: 5.0</span>
-<span style="font-size: 0.4em">10e: 4.0</span>
+simulation results:  
+<span style="font-size: 0.4em">00e: 5.0;</span>
+<span style="font-size: 0.4em">10e: 4.0;</span>
 <span style="font-size: 0.4em">20e: 3.0</span>
 
 simulations
