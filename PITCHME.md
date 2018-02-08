@@ -49,9 +49,9 @@ The pH-dependence of the HBE is from change of water adsorption energy
 ---
 Simulate the interface from explicit simulation:  
 
-<span style="font-size: 0.4em">At pH 0.2 (HClO4), the experiment Hupd peak of Pt(100) appears at about 0.3 V.</span>  
-<span style="font-size: 0.4em">At pH 5.2 (Acetate buffer), the experiment Hupd peak of Pt(100) appears at about 0.25 V.</span>  
-<span style="font-size: 0.4em">At pH 12.8 (KOH), the experiment Hupd peak of Pt(100) appears at about 0.4 V.</span>  
+- <span style="font-size: 0.4em">At pH 0.2 (HClO4), the experiment Hupd peak of Pt(100) appears at about 0.3 V.</span>  
+- <span style="font-size: 0.4em">At pH 5.2 (Acetate buffer), the experiment Hupd peak of Pt(100) appears at about 0.25 V.</span>  
+- <span style="font-size: 0.4em">At pH 12.8 (KOH), the experiment Hupd peak of Pt(100) appears at about 0.4 V.</span>  
 
 Thus the voltage we interested with are:  
 <span style="font-size: 0.4em"> 4.4 + 0.30 -  0.2 x 0.0592 = 4.69;</span>
