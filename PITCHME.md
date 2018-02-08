@@ -64,10 +64,8 @@ Thus the voltage we interested with are:
 simulation results:  
 <span style="font-size: 0.4em">00e: 5.0;</span>
 <span style="font-size: 0.4em">10e: 4.0;</span>
-<span style="font-size: 0.4em">20e: 3.0</span> or   
+<span style="font-size: 0.4em">20e: 3.0</span>  
 <span style="font-size: 0.4em">04e, 10e, 14e</span>
-
-
 
 ---
 ### Reduce the full explicit simulation to semi-explicit simulation
