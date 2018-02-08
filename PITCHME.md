@@ -54,10 +54,9 @@ The pH-dependence of the HBE is from change of water adsorption energy
 <span style="font-size: 0.4em">At pH 12.8 (KOH), the experiment Hupd peak of Pt(100) appears at about 0.4 V.</span>  
 
 Thus the voltage we interested with are:
-<span style="font-size: 0.4em">1. 4.4 + 0.30 -  0.2 * 0.0592 = 4.69;</span>
-<span style="font-size: 0.4em">2. 4.4 + 0.25 -  5.2 * 0.0592 = 4.34;</span>
-<span style="font-size: 0.4em">3. 4.4 + 0.40 - 12.8 * 0.0592 = 4.04</span>
-
+<span style="font-size: 0.4em"> 4.4 + 0.30 -  0.2 * 0.0592 = 4.69;</span>
+<span style="font-size: 0.4em"> 4.4 + 0.25 -  5.2 * 0.0592 = 4.34;</span>
+<span style="font-size: 0.4em"> 4.4 + 0.40 - 12.8 * 0.0592 = 4.04</span>
 <span style="font-size: 0.4em">set 1: 4.69 to 4.04</span>
 <span style="font-size: 0.4em">set 2: 4.89 to 4.24</span>
 <span style="font-size: 0.4em">set 3: 4.40, 3.98, 3.57</span>
