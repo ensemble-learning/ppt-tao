@@ -45,6 +45,7 @@ HBE increases with increasing pH
 ---
 
 Difference in pH at RHE scale is the difference in potential at SHE scale.
+![](assets/f7.png)  
 
 
 ---
