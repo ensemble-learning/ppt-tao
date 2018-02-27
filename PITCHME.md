@@ -43,11 +43,15 @@ HBE increases with increasing pH
 - <span style="font-size: 0.6em">Weakened OH adsorption strength induced by the co-adsorption of cation (McCrum et al. J. Phys. Chem. C, 2016)</span>
 
 ---
+![](assets/f8.png)
+
+---
 ### Our hypothesis
 The pH-dependence of the HBE is from change of water adsorption due to the change of applied potential.
 
 ---
 ![](assets/f6.jpg)    
+
 ---
 Difference in pH at RHE scale is the difference in potential at SHE scale.
 ![](assets/f7.png)  
@@ -61,12 +65,6 @@ simulate the interface under applied potential
 
 ---
 ![](assets/f9.png)
-
----
-![](assets/f8.png)
-
-
-
 
 ---
 Simulate the interface from explicit simulation:  
