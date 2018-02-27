@@ -52,6 +52,9 @@ Difference in pH at RHE scale is the difference in potential at SHE scale.
 ![](assets/f7.png)  
 
 ---
+![](assets/f8.png)
+
+---
 simulate the interface under applied potential
 ![](assets/f5.png)    
 
