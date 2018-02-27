@@ -54,7 +54,7 @@ simulate the interface under applied potential
 <span style="font-size: 0.5em"> experiment pzc: water/Pt(100) = 4.85 eV </span>
 
 ---
-![](assets/f6.png)    
+![](assets/f6.jpg)    
 
 ---
 Simulate the interface from explicit simulation:  
