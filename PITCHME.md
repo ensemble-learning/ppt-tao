@@ -50,7 +50,7 @@ The pH-dependence of the HBE is from change of water adsorption energy
 
 simulate the interface under applied potential
 ![](assets/f5.png)    
-workfuction: water/Pt(100) = 5.06 eV water+Na/Pt(100) = 4.38 eV
+<span style="font-size: 0.6 em"> workfuction: water/Pt(100) = 5.06 eV water+Na/Pt(100) = 4.38 eV </span>
 
 ---
 Simulate the interface from explicit simulation:  
