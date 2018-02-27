@@ -67,7 +67,8 @@ simulate the interface under applied potential
 ![](assets/f9.png)
 
 ---
-# Binding Energy
+Binding Energy 
+
 ![](assets/f10.png)
 
 
