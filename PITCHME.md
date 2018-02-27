@@ -50,9 +50,6 @@ HBE increases with increasing pH
 The pH-dependence of the HBE is from change of water adsorption due to the change of applied potential.
 
 ---
-![](assets/f6.jpg)    
-
----
 Difference in pH at RHE scale is the difference in potential at SHE scale.
 ![](assets/f7.png)  
 
@@ -62,6 +59,9 @@ simulate the interface under applied potential
 
 <span style="font-size: 0.5em"> workfuction: water/Pt(100) = 5.06 eV water+Na/Pt(100) = 4.38 eV </span>  
 <span style="font-size: 0.5em"> experiment pzc: water/Pt(100) = 4.85 eV </span>
+
+---
+![](assets/f6.jpg)    
 
 ---
 ![](assets/f9.png)
