@@ -1,6 +1,6 @@
 ---
 
-@title[Introduction]
+@title[Title]
 ### Tao Cheng
 ### Research Assistant
 ### JCAP, Caltech
