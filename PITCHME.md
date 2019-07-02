@@ -14,8 +14,10 @@
 
 ---
 - The performance of Fe3+–N–C was stable between –0.2 and –0.5 V versus RHE.
-- at potentials more negative than –0.5 V versus RHE,
-the activity became unstable
+- at potentials more negative than –0.5 V versus RHE, the activity became unstable
+---
+- For Fe3+–N–C, the Fe K-edge showed no obvious shift between the dry powder and the in situ sample at –0.4 V versus RHE. The edge energy was close to that of Fe3+TPPCl, indicating that the Fe ions in Fe3+–N–C remained in the +3 oxidation state during CO2 electroreduction at potentials as negative as –0.4 V versus RHE.
+- When the applied potential was shifted further negative, to –0.5 V versus RHE and beyond, the Fe K-edge shifted to lower energies, which were comparable with that of FeO, suggesting the reduction of Fe3+ to Fe2+.
 ---
 100-fold activity decrease going from low to high pH
 
