@@ -20,7 +20,7 @@
 ---
 ![](assets/sac-04.jpg)  
 ---
-![](assets/sac-02.png)  
+![](assets/sac-02.jpg)  
 ---
 - The performance of Fe3+–N–C was stable between –0.2 and –0.5 V versus RHE.
 - at potentials more negative than –0.5 V versus RHE, the activity became unstable
