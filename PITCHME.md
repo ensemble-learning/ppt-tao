@@ -8,9 +8,9 @@
 ---
 
 @title[Introduction]
-- The Fe catalyst (Fe3+–N–C) was prepared through the pyrolysis of Fe-doped zinc (Zn) 2-methylimidazolate framework (ZIF-8) under N2 at 900 C
+- The Fe catalyst (Fe3+–N–C) was prepared through the pyrolysis of Fe-doped Zn ZIF-8 under N2 at 900 C
 - The precursor adopts the same crystal structure as that of undoped ZIF-8, with a mole ratio of Fe:Zn of 4:96
-- Fe ions occupy Zn sites and are coordinated by four pyrrolic-type nitrogens (N), as revealed by the fitting of the Fe K-edge extended x-ray absorption fine structure (EXAFS) spectrum
+- Fe ions occupy Zn sites and are coordinated by four pyrrolic-type N, as revealed by the fitting of the Fe K-edge EXAFS spectrum
 
 ---
 For as yet unclear reasons, the HOR/HER kinetics on Pt are much slower in alkaline than in acid electrolytes. 
