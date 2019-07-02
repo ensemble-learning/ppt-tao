@@ -20,6 +20,7 @@
 - When the applied potential was shifted further negative, to –0.5 V versus RHE and beyond, the Fe K-edge shifted to lower energies, which were comparable with that of FeO, suggesting the reduction of Fe3+ to Fe2+.
 ---
 - we prepared the reference sample (Fe2+–N–C) by pyrolysis of a composite containing a Fe-phenanthroline complex at 700°C
+- The Fe 2p XPS (fig. S14C) spectrum showed that the binding energy of Fe ion was similar to that of Fe2O3.  These data suggested an important number of Fe3+ sites in the as-prepared sample of Fe2+–N–C.
 ---
 100-fold activity decrease going from low to high pH
 
