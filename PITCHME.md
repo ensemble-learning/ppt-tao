@@ -1,11 +1,9 @@
 ---
 
 @title[Title]
-### Tao Cheng
-### Research Assistant
-### JCAP, Caltech
+### Two State Reactivity of Iron
 
-<span style="color: gray">HOR</span>
+<span style="color: gray">Tao Cheng</span>
 
 ---
 
