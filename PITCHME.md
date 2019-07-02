@@ -13,8 +13,9 @@
 - Fe ions occupy Zn sites and are coordinated by four pyrrolic-type N, as revealed by the fitting of the Fe K-edge EXAFS spectrum
 
 ---
-For as yet unclear reasons, the HOR/HER kinetics on Pt are much slower in alkaline than in acid electrolytes. 
-
+- The performance of Fe3+–N–C was stable between –0.2 and –0.5 V versus RHE.
+- at potentials more negative than –0.5 V versus RHE,
+the activity became unstable
 ---
 100-fold activity decrease going from low to high pH
 
