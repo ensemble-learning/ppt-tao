@@ -29,6 +29,13 @@
 - Moreover, CO2 adsorption is fast, and the ratelimiting step is the protonation of the adsorbed CO2 to form an adsorbed COOH intermediate
 
 ---
+- External CO did not influence the activity of Fe3+–N–C but largely
+decreased the activity of Fe2+–N–C. 
+- This result suggests that at high overpotentials, CO desorption becomes rate limiting for Fe2+–N–C.
+- On the other hand, the reaction at Fe3+ sites was not limited by CO desorption and could reach a very high current
+density. 
+- Thus, the higher activity of Fe3+–N–C compared with Fe2+–N–C at high overpotentials can be rationalized by a weaker CO binding at an Fe3+ center than at an Fe2+ center.
+---
 100-fold activity decrease going from low to high pH
 
 ![](assets/f1.png)  
