@@ -8,7 +8,7 @@
 ---
 
 @title[Introduction]
-- The Fe catalyst (Fe3+–N–C) was prepared through the pyrolysis of Fe-doped zinc (Zn) 2-methylimidazolate framework (ZIF-8)
+- The Fe catalyst (Fe3+–N–C) was prepared through the pyrolysis of Fe-doped zinc (Zn) 2-methylimidazolate framework (ZIF-8) under N2 at 900 C
 
 ---
 For as yet unclear reasons, the HOR/HER kinetics on Pt are much slower in alkaline than in acid electrolytes. 
